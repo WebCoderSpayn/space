@@ -1,7 +1,7 @@
 package com.space.controller;
 
 public enum ShipOrder {
-    ID("id"), // default
+    ID("id"),
     SPEED("speed"),
     DATE("prodDate"),
     RATING("rating");
